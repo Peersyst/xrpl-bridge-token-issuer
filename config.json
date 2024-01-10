@@ -1,7 +1,7 @@
 {
-    "node_url": "http://sidechain-net1.devnet.rippletest.net:51234",
+    "node_url": "https://s.devnet.rippletest.net:51234",
     "currency_code": "TST",
-    "seed": "sEd7nEkquz3AKirhJBKvwYWswewygVh",
+    "seed": "sEdVrYPVWTEvtbnPMnGThLV3veu5e83",
     "issue_quantity": 1000000,
-    "faucet_host": "sidechain-faucet.devnet.rippletest.net"
+    "faucet_host": "faucet.devnet.rippletest.net"
 }
